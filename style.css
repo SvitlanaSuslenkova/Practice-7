@@ -7,7 +7,7 @@ body {
     padding: 0;
     margin: 0;
     background-color: hsl(240, 75%, 98%);
-    background: url("./images/bg-curve-mobile.svg") bottom no-repeat;   
+    background: url("bg-curve-mobile.svg") bottom no-repeat;   
     background-size: 700% 71%;
     z-index: -1;    
     color: hsl(243, 87%, 12%);
